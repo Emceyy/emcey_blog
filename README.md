@@ -14,4 +14,4 @@ To run this project locally, you need to have Node.js and MongoDB installed on y
 4. Run `node app.js` to start the server.
 5. Open a browser and go to `http://localhost:3000` to view the website.
 
-![Ekran görüntüsü 2023-05-19 203812](https://github.com/Emceyy/emcey_blog/assets/88679659/ac7f2553-2bd1-44b1-afba-a56dc04841ce)
+
