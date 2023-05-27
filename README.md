@@ -14,4 +14,7 @@ To run this project locally, you need to have Node.js and MongoDB installed on y
 4. Run `node app.js` to start the server.
 5. Open a browser and go to `http://localhost:3000` to view the website.
 
+## License
+
+This project is licensed under the ISC license.
 
